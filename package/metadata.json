@@ -1,0 +1,14 @@
+{
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPlugin": {
+    "Id": "org.franz.claudehubwidget",
+    "Name": "Claude Hub",
+    "Description": "Verbrauch und laufende Sessions von Claude Code, Klick öffnet Claude Hub",
+    "Icon": "claude-hub",
+    "Category": "Utilities",
+    "Authors": [{ "Name": "Fynn7909" }],
+    "Version": "1.0",
+    "License": "GPL-2.0+"
+  }
+}
